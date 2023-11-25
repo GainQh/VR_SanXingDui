@@ -21,6 +21,9 @@
 &emsp;&emsp;
 ## 1.3 Functional realization
 ### 1.3.1 particle system
-&emsp;&emsp;We used the particle system twice in this project, including the simulation of the dust storm effect in Scene 1 and the firefly effect in Scene 2
+&emsp;&emsp;We used the particle system twice in this project, including the simulation of the sand storm effect in Scene one and the firefly effect in Scene two.The sandstorms is to better reflect the desolation of Scene one, and the fireflies are to make Scene two more ancient style.
 <div align=center><img src="https://github.com/GainQh/VR_SanxingDui/blob/main/SandStorm.png"/></div>
 <div align=center><img src="https://github.com/GainQh/VR_SanxingDui/blob/main/Firefly.png"/></div>
+
+### 1.3.2 URP
+&emsp;&emsp;In Scene 2, in order to simulate a more realistic water surface effect, we upgraded the rendering pipeline to URP rendering pipeline and used the visualization program node provided by Unity to create a beautiful and realistic water surface effect.
