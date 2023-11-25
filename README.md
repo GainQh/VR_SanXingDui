@@ -13,3 +13,12 @@
 ## 1.3 Technical Background Research
 &emsp;&emsp;Immersive interaction design can generate multimodal interaction situations directly from behavioral interactions, giving viewers the ability to interact with the content, have fun, and bring the content to life to participate in virtual scenarios.
 ![image](https://github.com/GainQh/VR_SanxingDui/blob/main/Technical.png?raw=true)
+# 2. Technological Route
+## 1.1 3D Modeling
+&emsp;&emsp;We strictly follow industry modeling standards, from sculpting to baking to painting materials, following a workflow from blender to Zbrush to SP.
+![image](https://github.com/GainQh/VR_SanxingDui/blob/main/Modeling.png?raw=true)
+## 1.2 Style Design
+&emsp;&emsp;
+## 1.3 Functional realization
+### 1.3.1 particle system
+&emsp;&emsp;We used the particle system twice in this project, including the simulation of the dust storm effect in Scene 1 and the firefly effect in Scene 2
