@@ -10,3 +10,5 @@
 - There is an intention to develop a smart digital museum with the help of digital media technology;
 - Has a virtual showroom but is more traditional: features only panoramic display, mouse interaction;
 - There are 3D artifact displays that are highly informative for modeling;
+## 1.3 Technical Background Research
+&emsp;&emsp;Immersive interaction design can generate multimodal interaction situations directly from behavioral interactions, giving viewers the ability to interact with the content, have fun, and bring the content to life to participate in virtual scenarios.
