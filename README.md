@@ -55,5 +55,5 @@
 <div align=center><img width="500" height="400" src="https://github.com/GainQh/VR_SanxingDui/blob/main/map.png"/></div>
 
 ### 1.3.5 Cruise Ship Simulation
-&emsp;&emsp;We made simple rafts for use in Scenario Two. Since Scene 2 is mainly action on a river, we modeled the navigation of a cruise ship. This included a simulation of the bumpy effects
+&emsp;&emsp;We made simple rafts for use in Scenario Two. Since Scene 2 is mainly action on a river, we modeled the navigation of a cruise ship. This included a simulation of the bumpy effects  
 
