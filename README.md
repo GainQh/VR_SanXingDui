@@ -12,3 +12,4 @@
 - There are 3D artifact displays that are highly informative for modeling;
 ## 1.3 Technical Background Research
 &emsp;&emsp;Immersive interaction design can generate multimodal interaction situations directly from behavioral interactions, giving viewers the ability to interact with the content, have fun, and bring the content to life to participate in virtual scenarios.
+![image](https://github.com/GainQh/VR_SanxingDui/blob/main/Technical.png?raw=true)
