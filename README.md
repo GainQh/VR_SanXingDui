@@ -54,6 +54,6 @@
 &emsp;&emsp;We simulated the map effect by placing an overhead camera above the character, so the player could observe their position in real time. Because of the large size of Scene two, we place this feature in Scene two to help players better explore the map
 <div align=center><img width="300" height="200" src="https://github.com/GainQh/VR_SanxingDui/blob/main/map.png"/></div>
 
-### 1.3.5 Cruise Ship Simulation
+### 1.3.6 Cruise Ship Simulation
 &emsp;&emsp;We made simple rafts for use in Scenario Two. Since Scene 2 is mainly action on a river, we modeled the navigation of a cruise ship. This included a simulation of the bumpy effects  
 
