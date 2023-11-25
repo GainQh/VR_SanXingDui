@@ -27,3 +27,11 @@
 
 ### 1.3.2 URP
 &emsp;&emsp;In Scene 2, in order to simulate a more realistic water surface effect, we upgraded the rendering pipeline to URP rendering pipeline and used the visualization program node provided by Unity to create a beautiful and realistic water surface effect.
+<div align=center><img src="https://github.com/GainQh/VR_SanxingDui/assets/150640834/8468db3d-c7c3-45d3-bfce-3655a10e0c62"/></div>
+
+### 1.3.2 UI
+&emsp;&emsp;We rendered the different hints UI in a canvas based on the camera as well as in world coordinates as needed, e.g., the main quest hints would be rendered on the camera, i.e., the VR headset, while the artifacts introductions in Scene 3 would be rendered in world coordinates.
+<div align=center><img width="1000" height="600" src="https://github.com/GainQh/VR_SanxingDui/blob/main/UI1.png"/></div>
+<p align="center">The image above shows the UI based on the VR headset</p>
+<div align=center><img width="1000" height="600" src="https://github.com/GainQh/VR_SanxingDui/blob/main/UI2.png"/></div>
+<p align="center">The image above shows the UI based on the game world</p>
