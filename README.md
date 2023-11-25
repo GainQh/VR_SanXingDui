@@ -45,9 +45,9 @@
 
 ### 1.3.4 UI
 &emsp;&emsp;We designed the UI based on the theme colors.Then we rendered the different hints UI in a canvas based on the camera as well as in world coordinates as needed, e.g., the main quest hints would be rendered on the camera, i.e., the VR headset, while the artifacts introductions in Scene 3 would be rendered in world coordinates.
-<div align=center><img width="1000" height="600" src="https://github.com/GainQh/VR_SanxingDui/blob/main/UI1.png"/></div>
+<div align=center><img width="1000" height="500" src="https://github.com/GainQh/VR_SanxingDui/blob/main/UI1.png"/></div>
 <p align="center">The image above shows the UI based on the VR headset</p>
-<div align=center><img width="1000" height="600" src="https://github.com/GainQh/VR_SanxingDui/blob/main/UI2.png"/></div>
+<div align=center><img width="1000" height="500" src="https://github.com/GainQh/VR_SanxingDui/blob/main/UI2.png"/></div>
 <p align="center">The image above shows the UI based on the game world</p>
 
 ### 1.3.5 Map Guide
