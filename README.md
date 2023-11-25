@@ -36,18 +36,24 @@
 
 ### 1.3.2 particle system
 &emsp;&emsp;We used the particle system twice in this project, including the simulation of the sand storm effect in Scene one and the firefly effect in Scene two.The sandstorms is to better reflect the desolation of Scene one, and the fireflies are to make Scene two more ancient style.
-<div align=center><img src="https://github.com/GainQh/VR_SanxingDui/blob/main/SandStorm.png"/></div>
-<div align=center><img src="https://github.com/GainQh/VR_SanxingDui/blob/main/Firefly.png"/></div>
+<div align=center><img width="500" height="400" src="https://github.com/GainQh/VR_SanxingDui/blob/main/SandStorm.png"/></div>
+<div align=center><img width="500" height="400"src="https://github.com/GainQh/VR_SanxingDui/blob/main/Firefly.png"/></div>
 
 ### 1.3.3 URP
 &emsp;&emsp;In Scene 2, in order to simulate a more realistic water surface effect, we upgraded the rendering pipeline to URP rendering pipeline and used the visualization program node provided by Unity to create a beautiful and realistic water surface effect.
 <div align=center><img src="https://github.com/GainQh/VR_SanxingDui/assets/150640834/8468db3d-c7c3-45d3-bfce-3655a10e0c62"/></div>
 
 ### 1.3.4 UI
-&emsp;&emsp;We rendered the different hints UI in a canvas based on the camera as well as in world coordinates as needed, e.g., the main quest hints would be rendered on the camera, i.e., the VR headset, while the artifacts introductions in Scene 3 would be rendered in world coordinates.
+&emsp;&emsp;We designed the UI based on the theme colors.Then we rendered the different hints UI in a canvas based on the camera as well as in world coordinates as needed, e.g., the main quest hints would be rendered on the camera, i.e., the VR headset, while the artifacts introductions in Scene 3 would be rendered in world coordinates.
 <div align=center><img width="1000" height="600" src="https://github.com/GainQh/VR_SanxingDui/blob/main/UI1.png"/></div>
 <p align="center">The image above shows the UI based on the VR headset</p>
 <div align=center><img width="1000" height="600" src="https://github.com/GainQh/VR_SanxingDui/blob/main/UI2.png"/></div>
 <p align="center">The image above shows the UI based on the game world</p>
 
+### 1.3.5 Map Guide
+&emsp;&emsp;We simulated the map effect by placing an overhead camera above the character, so the player could observe their position in real time. Because of the large size of Scene two, we place this feature in Scene two to help players better explore the map
+<div align=center><img width="500" height="400" src="https://github.com/GainQh/VR_SanxingDui/blob/main/map.png"/></div>
+
+### 1.3.5 Cruise Ship Simulation
+&emsp;&emsp;We made simple rafts for use in Scenario Two. Since Scene 2 is mainly action on a river, we modeled the navigation of a cruise ship. This included a simulation of the bumpy effects
 
