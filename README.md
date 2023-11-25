@@ -22,3 +22,5 @@
 ## 1.3 Functional realization
 ### 1.3.1 particle system
 &emsp;&emsp;We used the particle system twice in this project, including the simulation of the dust storm effect in Scene 1 and the firefly effect in Scene 2
+<div align=center><img src="https://github.com/GainQh/VR_SanxingDui/blob/main/SandStorm.png"/></div>
+<div align=center><img src="https://github.com/GainQh/VR_SanxingDui/blob/main/Firefly.png"/></div>
