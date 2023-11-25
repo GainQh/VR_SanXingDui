@@ -1,2 +1,4 @@
-# VR_SanxingDui
-A VR product about SanXingDui culture
+# Abstract
+This project is a VR virtual exhibition hall project based on Unity and Pico with the theme of "Man and God: Sacrifice and Divine Cognition in Sanxingdui Culture", aiming at letting the modern people understand the ancient people's review and thinking about the relationship between man and god by simulating the sacrificial scenes of Sanxingdui civilization in China. I was responsible for utilizing the characteristics of PICO4 equipment and Unity engine to realize a variety of interaction point technology and immersive experience. Through technical methods such as sound, gaze, keystrokes and area collision, we demonstrated a wealth of functional indicators, allowing users to freely explore ancient scenes, learn about the introduction of cultural artifacts, and view artifacts in a 360° rotation, etc., to provide a more realistic, immersive experience of traditional culture.
+# 1. Project Introduction
+## 1.1 cultural background
